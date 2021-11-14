@@ -61,7 +61,7 @@ class Arrays{
             }
         }
         return max;
-    }
+    } // O(n)
     public static void main (String[] args){
         int[] a = new int[]{2, 7, 11, 15};
         int[] a1 = new int[]{7, 1, 5, 3, 6, 4};
